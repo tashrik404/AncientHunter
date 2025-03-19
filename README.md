@@ -9,6 +9,7 @@
 - Basic animations for jumping, shooting.
 - Apples for the player.
 - Keyboard controls for jumping and movement.
+- A boss enemy emerges at last level.
 
 
 
